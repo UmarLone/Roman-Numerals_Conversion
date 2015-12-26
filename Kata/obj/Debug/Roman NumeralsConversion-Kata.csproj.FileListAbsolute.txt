@@ -1,0 +1,6 @@
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\bin\Debug\Kata.exe.config
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\bin\Debug\Kata.exe
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\bin\Debug\Kata.pdb
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\obj\Debug\Roman NumeralsConversion-Kata.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\obj\Debug\Kata.exe
+C:\Users\RAJ\Desktop\Projects\Kata\Kata\obj\Debug\Kata.pdb

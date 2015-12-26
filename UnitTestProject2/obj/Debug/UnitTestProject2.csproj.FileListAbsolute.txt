@@ -1,0 +1,7 @@
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\bin\Debug\Kata.exe
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\bin\Debug\Kata.pdb
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\RAJ\Downloads\Kata\Kata\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
